@@ -1,0 +1,23 @@
+{
+  "name": "plurality-gen",
+  "version": "1.0.0",
+  "description": "Return a singular or plural string based on a number value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomphill/plurality-gen.git"
+  },
+  "keywords": [
+    "plurality",
+    "generator"
+  ],
+  "author": "Tom Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomphill/plurality-gen/issues"
+  },
+  "homepage": "https://github.com/tomphill/plurality-gen#readme"
+}
